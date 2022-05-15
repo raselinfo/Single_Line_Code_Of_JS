@@ -35,7 +35,7 @@
 // ["1","2","4","5"]
 // function numberToArray(number) {
 //     let array = number.toString().split("");//stringify the number, then make each digit an item in an array
-    // return array.map(x => +x);//convert all the items back into numbers
+// return array.map(x => +x);//convert all the items back into numbers
 // }
 
 // var n = 12345;
