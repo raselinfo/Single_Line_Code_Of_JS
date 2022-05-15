@@ -1,1 +1,1 @@
-## Javascript utilities .
+## Javascript utilities.
