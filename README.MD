@@ -1,1 +1,1 @@
-## JavaScript Single Line Code .
+## Javascript utilities .
