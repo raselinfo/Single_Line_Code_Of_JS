@@ -1,1 +1,1 @@
-## JavaScript 1Loc.
+## JavaScript.
