@@ -1,2 +1,1 @@
-## JavaScript 1Loc.
-
+## JavaScript Single Line Code .
