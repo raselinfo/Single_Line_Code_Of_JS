@@ -1,17 +1,15 @@
-// Data : 
+// Data :
 // String
 // Number
 // Object
 // function
 // Array
 
-// function castArray(value) {
-//     // if (Array.isArray(value)) return value
-//     // return [value]
-//    return Array.isArray(value) ? value : [value]
-// }
-
-
+function castArray(value) {
+  if (Array.isArray(value)) return value;
+  return [value];
+}
+castArray([10, 20]);
 
 // console.log(Array.isArray(new Array()))
 // console.log(new Array(1,2))
@@ -22,7 +20,7 @@
 
 // }
 
-// 
+//
 // const typedArray1 = new Int8Array(10);
 // console.log(typedArray1)
 
@@ -42,7 +40,7 @@
 // var arr = n.toString().split('');
 // '12345'
 // ["1", "2", "4", "5"]
-// for (i = 0; i < arr.length; i++) {    
+// for (i = 0; i < arr.length; i++) {
 //     arr[i] = +arr[i];
 //     console.log(arr[i])
 // }
@@ -51,8 +49,6 @@
 // console.log(word.split(""))
 // console.log([...word])
 
-
-const castArray = (value) => Array.isArray(value) ? value : [value]
+const castArray = (value) => (Array.isArray(value) ? value : [value]);
 
 // console.log(castArray(function(){}))
-
