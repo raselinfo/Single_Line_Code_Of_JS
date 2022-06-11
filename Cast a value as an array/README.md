@@ -1,7 +1,7 @@
 <h1 align="center">Cast a value as an array</h1>
 <h5 align="center">Single Line Of Code In Javascript</h5>
 
-1. ### Cast a value as an array
+### Cast a value as an array
 
 ```
 function castArray(value) {
