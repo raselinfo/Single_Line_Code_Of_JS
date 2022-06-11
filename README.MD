@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 <h1 align="center">Single Line Of Code In Javascript</h1>
 
 <h3>Table of contents </h3>
@@ -18,5 +16,3 @@
 | 9   | [Count the occurrences of a value in an array](#radius-of-the-circle)             |
 | 10  | [Count the occurrences of array elements](#radius-of-the-circle)                  |
 | 11  | [Create an array of cumulative sum](#radius-of-the-circle)                        |
-
-=======
