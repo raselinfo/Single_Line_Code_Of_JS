@@ -1,4 +1,6 @@
-<h1 align="center">Problem solving through c language</h1>
+<<<<<<< HEAD
+
+<h1 align="center">Single Line Of Code In Javascript</h1>
 
 <h3>Table of contents </h3>
 
@@ -18,3 +20,5 @@
 | ](#fahrenheit-to-celsius) |
 | 11                        | [Create an array of cumulative sum                                                |
 | ](#celsius-to-fahrenheit) |
+
+=======
