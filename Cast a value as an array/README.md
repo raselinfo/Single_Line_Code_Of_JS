@@ -3,7 +3,7 @@
 
 ### Cast a value as an array
 
-```
+```js
 function castArray(value) {
   if (Array.isArray(value)) return value;
   return [value];
